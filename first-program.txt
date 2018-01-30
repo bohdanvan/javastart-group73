@@ -1,0 +1,26 @@
+First program steps:
+
+1.
+ПКМ src -> New -> Class (src -> Alt + Insert)
+HelloWorld
+
+2.
+public class HelloWorld {
+    psvm + Tab
+}
+
+3.
+public class HelloWorld {
+    public static void main(String[] args) {
+        sout + Tab
+    }
+}
+
+4.
+public class HelloWorld {
+    public static void main(..) {
+        System.out.println("Hello");
+    }
+}
+
+5. ПКМ file -> Run
