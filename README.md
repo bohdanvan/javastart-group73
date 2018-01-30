@@ -9,7 +9,7 @@ Prog.kiev.ua. Java Start. Группа 73
 
 1. Скачать исходный код в виде архива (кнопка **Clone or download**).
 2. Распаковать архив.
-3. File -> New -> Project from Existing Sources... -> Выбрать директорию с проектом -> All next...
+3. IDEA: File -> New -> Project from Existing Sources... -> Выбрать директорию с проектом -> All next...
 
 ## Видео лекций предыдущих групп
 
